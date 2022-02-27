@@ -1,0 +1,2 @@
+# mencoba
+Mencoba script sendiri

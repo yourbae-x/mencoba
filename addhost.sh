@@ -1,4 +1,5 @@
 #!/bin/bash
+# debian
 apt install jq curl -y
 DOMAIN=myvpnkuy.xyz
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c4)

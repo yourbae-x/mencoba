@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#bin
 clear
 echo -e "================================================="
 echo -e "# Script Auto Install SSH & OpenVPN             #"
